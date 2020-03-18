@@ -1,7 +1,0 @@
-.terraform
-terraform.tfstate
-*.tfstate*
-terraform.tfvars
-*.tfvars
-
-fixtures.ap-southeast-2.tfvars
